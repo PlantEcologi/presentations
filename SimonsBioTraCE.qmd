@@ -220,9 +220,9 @@ Our team have been working on these solutions and the potential to combine them 
 
 Firstly, members of our team have been leading efforts to map plant traits from imaging spectroscopy (hyperspectral remote sensing) groundtruthed with field data.
 
-Here we see false colour composites of 18 NEON landscapes in the US with three traits, Phenolics, Chlorophyll and Leaf Mass per unit Area mapped to red, green and blue. As you can see, these images reveal drastic variation in these traits within and between landscapes, revealing the legacy of ecological or land-use histories.
+- Here we see false colour composites of 18 NEON landscapes in the US with three traits, Phenolics, Chlorophyll and Leaf Mass per unit Area mapped to red, green and blue. As you can see, these images reveal clear variation in these traits within and between landscapes, revealing the legacy of land-use or ecological histories.
 
-Our team members have also been involved in the development of hyperspectral satellite missions (NASA's Eagle and ESA's CHIME), that are to be launched in the next 2-3 years.
+Our team members have also been involved in the development of hyperspectral satellite missions (such as NASA's Eagle and ESA's CHIME), that are to be launched in the next 2-3 years.
 :::
 
 ## Combining the solutions {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
@@ -244,7 +244,7 @@ Trait time-series from multispectral satellites
 :::{.notes}
 Time-series of traits from hyperspectral satellites will be transformational for biodiversity science and monitoring, but existing airborne and satellite data are patchy in space and time.
 
-An intermediate approach, to prepare for regular hyperspectral satellite data with continuous coverage, is to use field data and trait maps from airborne campaigns to calibrate and develop trait time-series from existing multispectral satellite records such as Landsat or Sentinel.
+To prepare for regular hyperspectral satellite data with continuous coverage, we will use field data and trait maps from airborne campaigns to calibrate and develop trait time-series from decades of records from existing multispectral satellites such as Landsat or Sentinel.
 :::
 
 ## Combining the solutions {style="text-align: center;"}
@@ -261,9 +261,17 @@ Model and forecast trait time-series
 ::::
 ::::::
 
+:::{.notes}
+We can then develop iterative forecasts of these traits that update as new imagery become available. 
+
+Initially, the new data will be from multispectral satellites, but we'll switch to hyperspectral satellites when the data become available, which should be during the project.
+
+This allows us to leverage decades of existing data, but then refine the models as the higher quality hyperspectral data become available.
+:::
+
 ## Combining the solutions {style="text-align: center;"}
 
-Use counterfactual forecasts to test causal drivers and theory
+Use counterfactual models and forecasts to test causal drivers and theory
 
 :::::: columns
 ::: {.column width="30%"}
@@ -275,13 +283,19 @@ Use counterfactual forecasts to test causal drivers and theory
 ::::
 ::::::
 
+:::{.notes}
+[This is not the final graphic.] I want to ask Phil's designer if she can make a version with better "intervention" forecasts.]
+
+The iterative forecasts serve multiple purposes. 
+:::
+
 ## A common framework to unify theory! {style="text-align: center;"}
 
 Describing eco-evolutionary dynamics by harmonizing existing theory in a trait-based framework
 
 :::::: columns
 ::: {.column width="70%"}
-![](img/traitdriver.png)
+![](img/traitdriver2.png)
 :::
 
 :::: {.column width="30%"}
@@ -295,7 +309,7 @@ Synthesizing theory across physiology, population biology, evolutionary biology,
 
 ##  {background-video="img/Simons_Fig_Anim_smaller.mp4" background-video-muted="true" background-size="contain"}
 
-## Our Team {background-image="img/BioTraCE_team.png" background-position="center"}
+## Our Team {background-image="img/BioTraCE_team.jpg" background-position="center"}
 
 ::::: columns
 :::: {.column width="25%"}
