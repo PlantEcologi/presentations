@@ -1,6 +1,6 @@
 ---
 title: "BioTRaCE"
-subtitle: "Simons Collaboration on Biodiversity Trajectories and Causal understanding of Ecoevolutionary dynamics"
+subtitle: "<span style='font-size: 0.8em;'>Simons Collaboration on</span>  <br> Biodiversity Trajectories and Causal understanding of Ecoevolutionary dynamics"
 format:
   revealjs:
     theme:
@@ -38,7 +38,7 @@ What is happening to the rest of the thousands of less conspicuous species we'll
 
 ##  {.center background-image="img/NG/Drosera capensis_flower.jpg" background-size="300px" background-position="right"}
 
-![](img/BendingtheCurve.png){width="80%" height="80%" fig-align="left"}
+![](img/BendingTheCurve.png){width="80%" height="80%" fig-align="left"}
 
 ::: {.notes}
 
@@ -112,7 +112,7 @@ Firstly, we need to reduce the innate variation and complexity of biodiversity i
 
 Secondly, we need to overcome challenges associated with patchy biodiversity observations in space and time.
 
-- This visualization of all species locality records in the Global Biodiversity Information Facility reveals many dark parts on the map. The record is even patchier when explored over time. One cannot model trajectories without data.
+- This visualization of all species locality records in Africa curated by the Global Biodiversity Information Facility reveals many dark parts on the map. The record is even patchier when explored over time. One cannot model trajectories without data.
 
 Third, historically, we have only been able to test causal relationships with randomised control trials. 
 
@@ -284,9 +284,12 @@ Use counterfactual models and forecasts to test causal drivers and theory
 ::::::
 
 :::{.notes}
-[This is not the final graphic.] I want to ask Phil's designer if she can make a version with better "intervention" forecasts.]
+[This is not the final graphic. I want to ask Phil's designer if she can make a version with better "intervention" forecasts.]
 
-The iterative forecasts serve multiple purposes. 
+The models and iterative forecasts can serve multiple purposes.
+
+- Firstly, they can be used to inform the management of biodiversity and Nature's Contributions to People by detecting and attributing change as it happens or exploring potential outcomes under different decision scenarios.
+- Secondly, we can use them for causal inference, by intervening on key variables or adding or altering mechanistic processes in the model to explore counterfactual scenarios. These hypothetical "what if" situations allow us to figure out cause-and-effect relationships by comparing reality to alternative outcomes.
 :::
 
 ## A common framework to unify theory! {style="text-align: center;"}
@@ -307,7 +310,24 @@ Synthesizing theory across physiology, population biology, evolutionary biology,
 ::::
 ::::::
 
+:::{.notes}
+We'll also apply... [Help Cory?]
+:::
+
 ##  {background-video="img/Simons_Fig_Anim_smaller.mp4" background-video-muted="true" background-size="contain"}
+
+:::{.notes}
+We've structured the project around 4 working groups, each with their own set of work packages, questions and responsibilities. Each working group will be making their own novel advances, but together they form an iterative learning cycle that allows us to learn and share across groups.
+
+The Theory and Synthesis group involves the entire team and others and is responsible for both guiding the other groups and iteratively reviewing, synthesizing and redistributing knowledge gained within the project, while also engaging with the needs of biodiversity management and policy decision-makers.
+
+Working group 2 will focus on developing rich biodiversity and environmental time-series from satellite and airborne imagery, field data and expert elicitation. This is the fuel for working group 3 and 4.
+
+Working group 3 is focused on developing iterative ecological forecasting models and causal analysis to detect and attribute drivers of biodiversity change and test theory.
+
+Working group 4 will use the data and findings from WG 2 and 3 in a Trait Driver Framework to reframe existing theory in terms of traits and test their utility for biodiversity prediction (again Cory - Help?).
+
+:::
 
 ## Our Team {background-image="img/BioTraCE_team.jpg" background-position="center"}
 
@@ -330,85 +350,106 @@ Synthesizing theory across physiology, population biology, evolutionary biology,
 ::::
 :::::
 
-## What success looks like? {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
-
-::::::::: center
-:::::::: columns
-::: {.column width="30%"}
-Fynbos?
-
-![](img/silvermine_mortality.jpg)
+:::{.notes}
+Our team represent three of the 5 MTEs and have data and experience in many others and include the broad range of skills necessary to complete this project, from field to theoretical ecology to remote sensing and conservation policy.
 :::
-
-:::: {.column width="30%"}
-::: fragment
-Global Biodiversity?
-
-![](img/BendingTheCurve.png)
-:::
-::::
-
-:::: {.column width="30%"}
-::: fragment
-Global Biodiversity?
-
-![](img/BendingTheCurve.png)
-:::
-::::
-::::::::
-:::::::::
 
 ## What success looks like? {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
 
+
+::::::::: center
+
+![](img/iterative_testing.png){width="65%"}
+
+A framework for iterative testing and integration of theory informed by ongoing global observations
+
+:::::::::
+
+:::{.notes}
+We will develop an open source framework and tools for iterative, and ideally automated, testing and integration of theory informed by ongoing global observations.
+
+Once developed, the learning framework and tools would allow further development and testing of theory well beyond the lifetime of the project.
+
+[Not sure about these chatGPT-generated graphics. I'd like to put more thought into what they're showing. Suggestions welcome!]
+:::
+
+## What success looks like? {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
+
+
+::::::::: center
+
+![](img/iterative_forecasting.png){width="65%"}
+
+Theory-informed iterative forecasting of biodiversity and NCP to inform decision making
+
+:::::::::
+
+:::{.notes}
+Of course our main goal behind developing the learning framework is to identify and test existing theory and develop new theory to improve our ability to forecast trajectories for biodiversity and NCP. So success would be to have theory-informed iterative forecasts up and running.
+
+[Not sure about these chatGPT-generated graphics. I'd like to put more thought into what they're showing. Suggestions welcome!]
+:::
+
+## What success looks like? {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
+
+
+::::::::: center
+
+![](img/BentTheCurve.png){width="80%"}
+
+Better managed biodiversity and Nature's Contributions to People
+
+:::::::::
+
+:::{.notes}
+And it goes without saying that we'd like to see better managed biodiversity and Nature's Contributions to People.
+:::
+
+## What success looks like? {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
+
+
 ::::::::: center
 :::::::: columns
+::: {.column width="30%"}
 
-:::: {.column width="25%"}
+![](img/iterative_testing.png)
+A framework for iterative testing and integration of theory informed by ongoing global observations
 
-![](img/silvermine_mortality.jpg)
-![](img/BendingTheCurve.png)
-![](img/BendingTheCurve.png)
-
-::::
-
-:::: {.column width="5%"}
-::::
-
-:::: {.column width="35%"}
-::: fragment
-![](img/whatwewilldo.png){fig-align="center"}
 :::
+
+:::: {.column width="30%"}
+
+![](img/iterative_forecasting.png)
+Theory-informed iterative forecasting of biodiversity and NCP to inform decision making
+
 ::::
 
-:::: {.column width="5%"}
-::::
+:::: {.column width="30%"}
 
-:::: {.column width="25%"}
-::: fragment
-![](img/silvermine_enhanced.jpg)
-![](img/gbif_africa.png)
-![](img/rothamsted-grass.jpeg)
-:::
+![](img/BentTheCurve.png)
+<br>
+
+Better managed biodiversity and Nature's Contributions to People
+
 ::::
 
 ::::::::
 :::::::::
 
-##
+##  {.center}
 
-::::::::: center
-:::::::: columns
-::: {.column width="30%"}
+![](img/silvermine_enhanced.jpg){width="90%" height="90%" fig-align="center"}
+
+:::{.notes}
+[Closing slide]
 :::
 
-::: {.column width="30%"}
-:::
+## What success looks like? {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
 
-::: {.column width="30%"}
-:::
+That's it!
 
-::::::::
-:::::::::
+Struggling a bit with "What success looks like?"
+
 
 ##
 
