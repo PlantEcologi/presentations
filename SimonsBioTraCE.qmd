@@ -6,6 +6,7 @@ format:
     theme:
       - sketchy.scss
     self-contained: false
+    slide-number: true
 title-slide-attributes:
     data-background-image: img/NG/Ischyrolepis tenuissima_Female.jpg
     data-background-size: contain
@@ -48,15 +49,42 @@ Image Credit: Adam Islaam | IIASA | Based on Leclère et al. 2020 _Nature_ https
 
 This uncertain state and trajectory of biodiversity and associated contributions to people is not unique to my home. It is a global crisis.
 
-And while we may know many of the drivers, we lack the ability to confidently track and forecast their impacts or future trajectories under different intervention scenarios.
+We can observe that biodiversity is changing. We can identify many of the drivers. But we still cannot reliably predict how biodiversity will respond, or determine which mechanisms are responsible, across the scales at which environmental change is occurring.
 
+That is the scientific problem BioTRaCE is designed to solve.
+
+//And while we may know many of the drivers, we lack the ability to confidently track and forecast their impacts or future trajectories in any specific landscape under different intervention scenarios.
+
+:::
+
+## Forecasting Biodiversity Trajectories {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
+
+:::::: columns
+::: {.column width="45%"}
+Current State
+
+![](img/forecast_traditional.png)
+Theory for predicting biodiversity dynamics is fragmented and inconsistent when generalizing between regions or across scales.
+:::
+
+:::: {.column width="45%"}
+::: fragment
+Desired State
+
+![](img/forecast_ssm.png)
+Consistent theory for predicting biodiversity dynamics with iterative learning and refining as new observations are assimilated.
+:::
+::::
+::::::
+
+:::{.notes}
 :::
 
 ##  {.center background-image="img/NG/Adenandra villosa_2.jpg" background-size="300px" background-position="right"}
 
 ::::: columns
 ::: {.column width="70%"}
-### We will develop a unified framework for iteratively testing theory and predicting biodiversity dynamics and Nature's Contributions to People across space and time.
+### We will develop a unified framework for iteratively testing theory to biodiversity dynamics and Nature's Contributions to People across space and time.
 :::
 
 ::: {.column width="30%"}
@@ -66,6 +94,8 @@ And while we may know many of the drivers, we lack the ability to confidently tr
 ::: {.notes}
 [Or drop this slide and go directly into the 3 core challenges?]
 :::
+
+<!-- 
 
 ##  {.center background-image="img/NG/Adenandra villosa_2.jpg" background-size="300px" background-position="right"}
 
@@ -78,6 +108,8 @@ A unified framework for iteratively testing theory and predicting biodiversity d
 ::: {.notes}
 [Or present something like this and say "We will develop a unified framework for iteratively testing theory and predicting biodiversity dynamics and Nature's Contributions to People across space and time."?]
 :::
+
+-->
 
 ## Three Core Challenges {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
 
@@ -116,7 +148,7 @@ Firstly, we need to reduce the innate variation and complexity of biodiversity i
 
 Secondly, we need to overcome challenges associated with patchy biodiversity observations in space and time.
 
-- This visualization of all species locality records in Africa curated by the Global Biodiversity Information Facility reveals many dark parts on the map. The record is even patchier when explored over time. One cannot model trajectories without data.
+- This visualization of species locality records curated by the Global Biodiversity Information Facility reveals many dark parts on the map. The record is even patchier when explored over time, and typically has a high latency (time between data collection and being available for modelling). One cannot model trajectories without good data.
 
 Third, historically, we have only been able to test causal relationships with randomised control trials. 
 
@@ -144,10 +176,16 @@ Mechanistic links between scales from organism to ecosystem and Nature's Contrib
 ::::
 ::::::
 
+:::fragment
+_This makes quantifying biodiversity tractable._
+:::
+
 :::{.notes}
 Fortunately, the past few decades and recent developments are allowing us to overcome these challenges.
 
 Firstly, trait-based ecology allows us to simplify the complexity of biodiversity and explore mechanistic links and processes that scale from individual organisms to ecosystems and Nature's Contributions to People, such as carbon sequestration, provision of clean water, or even human well-being.
+
+This makes quantifying biodiversity tractable.
 :::
 
 ## Three Solutions {style="text-align: center;"}
@@ -170,8 +208,14 @@ Provides repeated observations at scales from metres to the globe
 ::::
 ::::::
 
+:::fragment
+_This makes biodiversity observable._
+:::
+
 :::{.notes}
 Secondly, satellite remote sensing provides repeated observations at scales from metres to the globe, which when paired with ground observations can tell us a lot about the state and trajectory of various facets of biodiversity.
+
+This makes biodiversity observable.
 :::
 
 ## Three Solutions {style="text-align: center;"}
@@ -194,8 +238,56 @@ Allows us to test causation at the scale of observations
 ::::
 ::::::
 
+:::fragment
+_This makes the drivers of biodiversity change testable._
+:::
+
 :::{.notes}
 Third, burgeoning methods in modern causal statistics are freeing us from the constraints of randomised control trials and allowing us to infer causation at scales that match our observations and application.
+
+This makes the drivers of biodiversity change testable.
+:::
+
+## Three Solutions {style="text-align: center;"}
+
+::::::::: center
+:::::::: columns
+::: {.column width="30%"}
+Trait-Based Ecology
+
+<br>
+
+![](img/traits_linkages.png)
+
+<br>
+
+Measurable
+:::
+
+:::: {.column width="30%"}
+::: fragment
+Satellite Remote Sensing
+
+![](img/chime_smaller.gif)
+
+Observable
+:::
+::::
+
+:::: {.column width="30%"}
+::: fragment
+Modern Causal Statistics
+
+![](img/causal_cartoon.png)
+
+Testable
+:::
+::::
+::::::::
+:::::::::
+
+:::fragment
+Combining these solutions make biodiversity theory continuously falsifiable and forecastable.
 :::
 
 ## Combining the solutions {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
@@ -315,9 +407,11 @@ Synthesizing theory across physiology, population biology, evolutionary biology,
 ::::::
 
 :::{.notes}
+We will translate theories operating at different ecological scales into a common trait-based representation, so that they can generate comparable predictions that can be tested against the same observations.
+
 We'll also apply a Trait Driver Theory framework to recast context-dependent community assembly theories in the common currency of individual traits and community trait distributions, linking dynamics to selection, dispersal, drift, and speciation. 
 
-This theoretical approach borrows from quantitative genetics and makes competing theories directly comparable on the same data, and allowing us to partition each process's contribution. 
+This theoretical approach borrows from quantitative genetics and allows us to translate theories operating at different ecological scales into a common trait-based representation to make competing theories directly comparable on the same data, and allowing us to partition the contribution of different process. 
 :::
 
 ##  {background-video="img/Simons_Fig_Anim_smaller.mp4" background-video-muted="true" background-size="contain"}
@@ -358,10 +452,11 @@ Working group 4 will use the data and findings from WG 2 and 3 in a Trait Driver
 
 :::{.notes}
 Our team represent three of the 5 MTEs and have data and experience in many others and include the broad range of skills necessary to complete this project, from field to theoretical ecology to remote sensing and conservation policy.
+
+No single discipline can do this. Our team brings together the people who have independently developed each component, and now allows us to integrate them.
 :::
 
 ## What success looks like? {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
-
 
 ::::::::: center
 
