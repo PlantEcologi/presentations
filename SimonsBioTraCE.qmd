@@ -40,6 +40,10 @@ What is happening to the rest of the thousands of less conspicuous species we'll
 
 ![](img/BendingTheCurve.png){width="80%" height="80%" fig-align="left"}
 
+::: footer
+Image Credit: Adam Islaam | IIASA | Based on Leclère et al. 2020 _Nature_ https://doi.org/10.1038/s41586-020-2705-y
+:::
+
 ::: {.notes}
 
 This uncertain state and trajectory of biodiversity and associated contributions to people is not unique to my home. It is a global crisis.
@@ -80,14 +84,14 @@ A unified framework for iteratively testing theory and predicting biodiversity d
 ::::::::: center
 :::::::: columns
 ::: {.column width="30%"}
-Biodiversity
+Complexity of Biodiversity
 
 ![](img/fynbos.jpg)
 :::
 
 :::: {.column width="30%"}
 ::: fragment
-Observation
+Incomplete Observation
 
 ![](img/gbif_africa.png)
 :::
@@ -95,7 +99,7 @@ Observation
 
 :::: {.column width="30%"}
 ::: fragment
-Inference
+Limited Causal Inference
 
 ![](img/rothamsted-grass.jpeg)
 :::
@@ -124,7 +128,7 @@ Third, historically, we have only been able to test causal relationships with ra
 
 :::::: columns
 ::: {.column width="45%"}
-Diversity
+Complexity of Biodiversity
 
 ![](img/fynbos.jpg)
 :::
@@ -150,7 +154,7 @@ Firstly, trait-based ecology allows us to simplify the complexity of biodiversit
 
 :::::: columns
 ::: {.column width="45%"}
-Observation
+Incomplete Observation
 
 ![](img/gbif_africa.png)
 :::
@@ -174,7 +178,7 @@ Secondly, satellite remote sensing provides repeated observations at scales from
 
 :::::: columns
 ::: {.column width="45%"}
-Inference
+Limited Causal Inference
 
 ![](img/rothamsted-grass.jpeg)
 :::
@@ -183,7 +187,7 @@ Inference
 ::: fragment
 Modern Causal Statistics
 
-![](img/causaltraits.png)
+![](img/causal_cartoon.png)
 
 Allows us to test causation at the scale of observations
 :::
@@ -311,7 +315,9 @@ Synthesizing theory across physiology, population biology, evolutionary biology,
 ::::::
 
 :::{.notes}
-We'll also apply... [Help Cory?]
+We'll also apply a Trait Driver Theory framework to recast context-dependent community assembly theories in the common currency of individual traits and community trait distributions, linking dynamics to selection, dispersal, drift, and speciation. 
+
+This theoretical approach borrows from quantitative genetics and makes competing theories directly comparable on the same data, and allowing us to partition each process's contribution. 
 :::
 
 ##  {background-video="img/Simons_Fig_Anim_smaller.mp4" background-video-muted="true" background-size="contain"}
