@@ -310,17 +310,46 @@ This is exactly what we need to develop a coherent body of theory for forecastin
 This is our offering.
 :::
 
-# BioTraCE {.center style="text-align: center;" background-image="img/NG/Ischyrolepis tenuissima_Female.jpg" background-size="500px" background-position="left"}
 
-Biodiversity Trajectories and Causal understanding of Ecoevolutionary dynamics
+## BioTraCE {background-image="img/BioTraCE_Team2.png" background-position="center"}
+
+::::: columns
+:::: {.column width="25%"}
+
+<!--
+![](img/NG/Ischyrolepis tenuissima_Female_noBG.png){width="30%" height="30%" fig-align="left"}
+-->
+
+::: {.fragment style="font-size: 0.7em;"}
+
+<br>
+
+- Remote Sensing of Biodiversity
+- Theoretical Ecology
+- Trait-based Ecology
+- Statistical Ecology
+- Hydroclimatology
+- People and Nature
+- Conservation Planning
+- Science and Policy
+- and more...
+
+:::
+
+::::
+:::::
 
 :::{.notes}
-BioTraCE will combine these solutions to create something transformational for biodiversity theory, observation and forecasting.
+BioTraCE has the team to combine these solutions to create something transformational for biodiversity theory, observation and forecasting.
+
+No single discipline can do this. Our team brings together the people who have independently developed each component, and now allows us to integrate them.
+
+We represent three of the 5 MTEs, where we will focus the initial work, and have data and experience in many others.
 :::
 
 ## Combining the solutions {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
 
-Trait maps from field surveys and imaging spectroscopy
+Mapping traits with hyperspectral remote sensing
 
 :::::: columns
 ::: {.column width="30%"}
@@ -329,17 +358,36 @@ Trait maps from field surveys and imaging spectroscopy
 :::
 
 :::: {.column width="65%"}
-::: fragment
 ![](img/traitmapping_new.jpg)
 ![](img/trait_legend.png){.absolute bottom=0 right=50 width="200" height="100"}
+::::
+::::::
+
+:::{.notes}
+Firstly, members of our team have been leading efforts to map plant traits from imaging spectroscopy (hyperspectral remote sensing), groundtruthed with field data.
+
+- Here we see false colour composites of 18 NEON landscapes in the US with three traits, Phenolics, Chlorophyll and Leaf Mass per unit Area mapped to red, green and blue. As you can see, these images reveal clear variation in these traits within and between landscapes, revealing the legacies of ecological histories and land-use.
+:::
+
+## Combining the solutions {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
+
+Mapping traits with hyperspectral remote sensing
+
+:::::: columns
+::: {.column width="30%"}
+![](img/bioscape_flight_wide.png)
+![](img/traitmapping_new.jpg) 
+:::
+
+:::: {.column width="65%"}
+::: fragment
+![](img/satellite_evolution.png)
 :::
 ::::
 ::::::
 
 :::{.notes}
-Members of our team have been leading efforts to map plant traits from imaging spectroscopy (hyperspectral remote sensing) groundtruthed with field data.
-
-- Here we see false colour composites of 18 NEON landscapes in the US with three traits, Phenolics, Chlorophyll and Leaf Mass per unit Area mapped to red, green and blue. As you can see, these images reveal clear variation in these traits within and between landscapes, revealing the legacies of ecological histories and land-use.
+[Explain evolution of IS and what this means]
 
 Our team members are also involved in the development of hyperspectral satellite missions (such as NASA's Eagle and ESA's CHIME), that are scheduled to be launched in 2028.
 :::
@@ -355,7 +403,8 @@ Trait time-series from multispectral satellites
 
 :::: {.column width="65%"}
 ::: fragment
-![](img/traitTS.png)
+![](img/traitTS_multispec.png)
+![](img/trait_legend.png){.absolute bottom=0 right=50 width="200" height="100"}
 :::
 ::::
 ::::::
@@ -363,30 +412,56 @@ Trait time-series from multispectral satellites
 :::{.notes}
 Time-series of traits from hyperspectral satellites will be transformational for biodiversity science and monitoring, but existing airborne and satellite data are patchy in space and time.
 
-To prepare for regular acquisition of hyperspectral satellite data with continuous coverage, we'll use field data and trait maps from airborne campaigns to calibrate and develop trait time-series from decades of existing multispectral satellite records, such as Landsat and Sentinel.
+To prepare for regular acquisition of hyperspectral satellite data with continuous coverage, we'll use field data and patchy imagery from airborne campaigns and existing space-borne platforms to calibrate and develop trait time-series from existing multidecadal multispectral satellite records, such as Landsat and Sentinel.
+
+This figure shows...
+
+This allows us to build biodiversity datasets at spatial and temporal extents and resolutions that have never been available to science before.
+
+Not only does this present new opportunities to test existing theory, it is very likely to reveal phenomena that we have never seen before.
 :::
 
-## Combining the solutions {style="text-align: center;"}
+## Combining the solutions {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
 
-Model and forecast trait time-series
+Causal analysis of theory and drivers of traits and NCP
 
 :::::: columns
 ::: {.column width="30%"}
-![](img/traitmapping_new.jpg) ![](img/landsat.gif)
+![](img/traitmapping_new.jpg) ![](img/traitTS_multispec.png)
 :::
 
 :::: {.column width="65%"}
-![](img/traitTS_forecast.png)
+![](img/causal_cartoons.png)
 ::::
 ::::::
 
 :::{.notes}
-We can then develop iterative forecasts of these traits that update as new imagery are acquired and processed - which is on the scale of days to weeks. 
+Combining these dense spatial and temporal datasets with causal statistics allows us to test the predictions of theory and the drivers of traits and NCP at the scales at which they are most relevant for observation, prediction, or societal application.
+:::
+
+## Combining the solutions {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
+
+And iterative forecasting of traits and NCP under different scenarios
+
+:::::: columns
+::: {.column width="30%"}
+![](img/traitmapping_new.jpg) ![](img/causal_cartoons.png)
+:::
+
+:::: {.column width="65%"}
+![](img/traitTS_multispec_forecast.png)
+::::
+::::::
+
+:::{.notes}
+We can then develop iterative forecasts of traits and NCP that update as new imagery are acquired and processed. 
 
 We'll transition from multispectral to hyperspectral satellite data when they become available, which is roughly midway through the project cycle.
 
 This allows us to leverage crucial information from decades of existing data, but then refine the models as the higher quality hyperspectral data become available.
 :::
+
+<!--
 
 ## Combining the solutions {style="text-align: center;"}
 
@@ -411,9 +486,11 @@ Secondly, they can be used to inform the management of biodiversity and Nature's
 
 :::
 
-## A common framework to unify theory. {style="text-align: center;"}
+-->
 
-Describing eco-evolutionary dynamics by harmonizing existing theory in a trait-based framework
+## A framework to harmonize theory {style="text-align: center;"}
+
+Describing eco-evolutionary dynamics by harmonizing existing theory in a common trait-based framework
 
 :::::: columns
 ::: {.column width="70%"}
@@ -421,7 +498,7 @@ Describing eco-evolutionary dynamics by harmonizing existing theory in a trait-b
 :::
 
 :::: {.column width="30%"}
-::: {.fragment style="font-size: 0.9em;"}
+::: {style="font-size: 0.9em;"}
 <br>
 
 Synthesizing theory across physiology, population biology, evolutionary biology, community ecology, ecosystem ecology, and global ecology.
@@ -430,14 +507,16 @@ Synthesizing theory across physiology, population biology, evolutionary biology,
 ::::::
 
 :::{.notes}
-We'll also apply a different approach, leveraging the trait time series and knowledge gained from the forecasts and causal models in a Trait Driver Theory framework.
+We'll also apply a different approach, leveraging the trait time series and knowledge gained from the forecasts and causal models in a Trait Driver Framework.
 
 The framework recasts context-dependent community assembly theories in the common currency of individual traits and community trait distributions, linking dynamics to selection, dispersal, drift, and speciation. 
 
 This theoretical approach borrows from quantitative genetics and allows us to translate theories operating at different ecological scales into a common trait-based representation to make competing theories directly comparable on the same data, and allowing us to partition the contribution of different process. 
 :::
 
-## Our Team {background-image="img/BioTraCE_team.jpg" background-position="center"}
+<!--
+
+## Our Team {background-image="img/BioTraCE_Team2.png" background-position="center"}
 
 ::::: columns
 :::: {.column width="25%"}
@@ -463,6 +542,8 @@ No single discipline can do this. Our team brings together the people who have i
 
 Our team represent three of the 5 MTEs, where we will focus the initial work, and have data and experience in many others and include the broad range of skills necessary to complete this project, from field to theoretical ecology to remote sensing, social ecological systems and conservation policy.
 :::
+
+-->
 
 ## BioTraCE Success {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
 
@@ -506,7 +587,7 @@ An open source framework and tools for iterative, automated, testing and integra
 
 ::::::::: center
 
-![](img/BentTheCurve.png){width="80%"}
+![](img/BentTheCurve2.png){width="80%"}
 
 A better future for biodiversity and Nature's Contributions to People
 
@@ -540,6 +621,8 @@ Working group 4 will use the data and findings from WG 2 and 3 in a Trait Driver
 
 :::
 
+<!--
+
 ## What success looks like? {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
 
 
@@ -571,7 +654,12 @@ Better managed biodiversity and Nature's Contributions to People
 ::::::::
 :::::::::
 
-<!--
+# BioTraCE {.center style="text-align: center;" background-image="img/NG/Ischyrolepis tenuissima_Female.jpg" background-size="500px" background-position="left"}
+
+:::{.notes}
+BioTraCE will combine these solutions to create something transformational for biodiversity theory, observation and forecasting.
+:::
+
 
 ## What success looks like? {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
 
