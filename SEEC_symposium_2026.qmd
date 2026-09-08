@@ -1,0 +1,193 @@
+---
+title: "SEEC Symposium"
+subtitle: "2026"
+format:
+  revealjs:
+    theme:
+      - sketchy.scss
+    self-contained: false
+    slide-number: true
+title-slide-attributes:
+    data-background-image: img/NG/Ischyrolepis tenuissima_Female.jpg, img/seec_logo.png
+    data-background-size: contain, 450px
+    data-background-position: "left, right 10% bottom 10%"
+---
+
+##  Why is it an exciting time to be working in statistical ecology? {.center style="text-align: center;"}
+
+##  {.center background-image="img/NG/Drosera capensis_flower_noBG.png" background-size="350px" background-position="right bottom"}
+
+![](img/BendingTheCurve.png){width="80%" height="80%" fig-align="left"}
+
+::: footer
+Image Credit: Adam Islaam | IIASA | Based on Leclère et al. 2020 _Nature_ https://doi.org/10.1038/s41586-020-2705-y
+:::
+
+
+## Forecasting Biodiversity Trajectories? {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
+
+:::::: columns
+::: {.column width="45%"}
+Current State
+
+![](img/forecast_traditional2.png)
+[Predicting biodiversity dynamics is hampered by fragmented, inconsistent or context-dependent theory.]{style="font-size: 0.8em;"}
+
+:::
+
+:::: {.column width="45%"}
+::: fragment
+Desired State
+
+![](img/forecast_ssm2.png)
+[Coherent integrative theory allows prediction of biodiversity dynamics and iterative learning from new observations.]{style="font-size: 0.8em;"}
+:::
+::::
+::::::
+
+
+## The Challenges {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
+
+::::::::: center
+:::::::: columns
+::: {.column width="30%"}
+Complexity of Biodiversity
+
+![](img/fynbos.jpg)
+:::
+
+:::: {.column width="30%"}
+::: fragment
+Incomplete Observation
+
+![](img/gbif_africa.png)
+:::
+::::
+
+:::: {.column width="30%"}
+::: fragment
+Limited Causal Inference
+
+![](img/rothamsted-grass.jpeg)
+:::
+::::
+::::::::
+:::::::::
+
+::: fragment
+_We haven't had the tools needed to test and integrate theory across the scales required for prediction of biodiversity!_
+:::
+
+
+## Solutions? {style="text-align: center;"}
+
+:::::: columns
+::: {.column width="45%"}
+Incomplete Observation
+
+![](img/gbif_africa.png)
+:::
+
+:::: {.column width="45%"}
+::: fragment
+Sensors and Citizen Science
+
+![](img/chime_smaller.gif)
+
+Satellites provide observations from metres to the globe, while ground-based sensors and citizen scientists provide rich in situ data
+:::
+::::
+::::::
+
+
+## Solutions? {style="text-align: center;"}
+
+:::::: columns
+::: {.column width="45%"}
+Limited Causal Inference
+
+![](img/rothamsted-grass.jpeg)
+:::
+
+:::: {.column width="45%"}
+::: fragment
+Modern Causal Statistics
+
+![](img/causal_cartoon.png)
+
+Allows us to test causation at the scale of observations
+:::
+::::
+::::::
+
+## Solutions? {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
+
+:::::: columns
+::: {.column width="45%"}
+Complexity of Biodiversity
+
+![](img/fynbos.jpg)
+:::
+
+:::: {.column width="45%"}
+::: fragment
+Trait-Based Ecology
+
+![](img/traits_linkages.png)
+
+Mechanistic links between scales from organism to ecosystem and Nature's Contributions to People
+:::
+::::
+::::::
+
+::: fragment
+_For those who need to simplify..._
+:::
+
+## Solutions? {style="text-align: center;"}
+
+::::::::: center
+:::::::: columns
+
+:::: {.column width="45%"}
+Dense observations
+
+![](img/chime_smaller.gif)
+
+::::
+
+:::: {.column width="45%"}
+Causal Statistics
+
+![](img/causal_cartoon.png)
+
+::::
+::::::::
+:::::::::
+
+<br>
+
+:::fragment
+_Combining these solutions makes biodiversity theory testable and falsifiable across spatial and temporal scales._
+:::
+
+## {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
+
+![](img/forecast_ssm2.png)
+
+Ultimately allowing better prediction to inform decisions...
+
+## {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
+
+
+::::::::: center
+
+![](img/BentTheCurve2.png){width="80%"}
+
+... and a better future for biodiversity and Nature's Contributions to People
+
+:::::::::
+
+##  {.center}
+
+![](img/silvermine_enhanced.jpg){width="90%" height="90%" fig-align="center"}

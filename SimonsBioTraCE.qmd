@@ -623,6 +623,9 @@ Working group 4 will use the data and findings from WG 2 and 3 in a Trait Driver
 
 <!--
 
+# BioTraCE {.center style="text-align: left;" background-image="img/NG/Ischyrolepis tenuissima_Female.jpg" background-size="500px" background-position="left"}
+
+
 ## What success looks like? {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
 
 
