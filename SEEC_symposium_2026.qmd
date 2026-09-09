@@ -144,19 +144,28 @@ Mechanistic links between scales from organism to ecosystem and Nature's Contrib
 _For those who need to simplify..._
 :::
 
-## Solutions? {style="text-align: center;"}
+## Solutions! {style="text-align: center;"}
 
 ::::::::: center
 :::::::: columns
+::: {.column width="30%"}
+Tractable Measurements
 
-:::: {.column width="45%"}
+[ ]{style="display: block; margin-top: 1.5em;"}
+
+![](img/traits_linkages.png)
+
+
+:::
+
+:::: {.column width="30%"}
 Dense observations
 
 ![](img/chime_smaller.gif)
 
 ::::
 
-:::: {.column width="45%"}
+:::: {.column width="30%"}
 Causal Statistics
 
 ![](img/causal_cartoon.png)
@@ -168,8 +177,9 @@ Causal Statistics
 <br>
 
 :::fragment
-_Combining these solutions makes biodiversity theory testable and falsifiable across spatial and temporal scales._
+_Combining these solutions makes biodiversity theory testable and continuously falsifiable across spatial and temporal scales._
 :::
+
 
 ## {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
 
@@ -182,7 +192,7 @@ Ultimately allowing better prediction to inform decisions...
 
 ::::::::: center
 
-![](img/BentTheCurve2.png){width="80%"}
+![](img/BentTheCurve_SEEC.png){width="80%"}
 
 ... and a better future for biodiversity and Nature's Contributions to People
 
