@@ -19,7 +19,6 @@ title-slide-attributes:
 ![](img/silvermine_enhanced.jpg){width="90%" height="90%" fig-align="center"}
 
 ::: {.notes}
-::: {style="font-size: 0.75em;"}
 I live in one of the most biodiverse regions of the world. My house is a stone's throw away from Table Mountain National Park, which is home to almost 3000 vascular plant species.
 
 Unfortunately, it is changing.
@@ -29,7 +28,7 @@ In 2017, with members of this team, I published the first documented evidence of
 Since then, we've experienced our worst megadrought on record, multiple heatwaves, extreme heavy rainfall and flooding events, and aseasonal fires are becoming increasingly common.
 
 This year, we've had our driest rainfall season on record.
-:::
+
 :::
 
 ##  {.center}
@@ -37,13 +36,13 @@ This year, we've had our driest rainfall season on record.
 ![](img/silvermine_mortality.jpg){width="90%" height="90%" fig-align="center"}
 
 ::: {.notes}
-::: {style="font-size: 0.75em;"}
 This photo I took near my house a week or two ago. We've seen roughly 90% mortality in these endemic large shrubs across more than a third of its range.
 
 What's happening to the thousands of less conspicuous species we simply don't know. 
 
 Neither do we know the implications for Nature's Contributions to People like carbon storage, water provision or future fire regimes.
-:::
+
+Sadly, I think most of us can tell a similar story of change and uncertainty about the ecosystems we know and love.
 :::
 
 ##  {.center background-image="img/NG/Drosera capensis_flower.jpg" background-size="300px" background-position="right"}
@@ -55,13 +54,13 @@ Image Credit: Adam Islaam | IIASA | Based on Leclère et al. 2020 _Nature_ https
 :::
 
 ::: {.notes}
-::: {style="font-size: 0.75em;"}
-Sadly, this uncertain state and trajectory of biodiversity and associated contributions to people is not unique to my home. It's a global crisis.
 
-We can observe change. We can identify candidate drivers. But we struggle to reliably determine mechanisms, or predict how biodiversity will respond to change at the scale of proximal drivers or interventions.
+This uncertain state and trajectory of biodiversity and associated contributions to people is not unique to my home. It's a global crisis.
 
-That is the scientific problem BioTRaCE is designed to address.
-:::
+We can observe that biodiversity is changing. We can identify many of the drivers. But we can't reliably determine which mechanisms are responsible, or predict how biodiversity will respond to change or interventions, across the scales at which environmental change is occurring.
+
+That is the scientific problem BioTRaCE is designed to solve.
+
 :::
 
 ## Forecasting Biodiversity Trajectories {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
@@ -86,8 +85,7 @@ Desired State
 ::::::
 
 :::{.notes}
-::: {style="font-size: 0.75em;"}
-We need to be able to **rapidly detect and forecast change and its drivers in order to be agile in response to threats to nature** and its contributions to people.
+We need to be able to rapidly detect and forecast change and its drivers in order to be agile in response to threats to nature and its contributions to people.
 
 Unfortunately, this is rarely feasible for most ecosystems at scales at which management interventions can be applied, largely because existing theory is fragmented, inconsistent or context dependent.
 
@@ -95,8 +93,38 @@ Unfortunately, this is rarely feasible for most ecosystems at scales at which ma
 
 We need coherent integrative theory that facilitates prediction of biodiversity dynamics and allows iterative learning as new observations are made.
 :::
+
+<!-- 
+
+##  {.center background-image="img/NG/Adenandra villosa_2.jpg" background-size="300px" background-position="right"}
+
+::::: columns
+::: {.column width="70%"}
+### We will develop a unified framework for iteratively testing theory to biodiversity dynamics and Nature's Contributions to People across space and time.
 :::
 
+::: {.column width="30%"}
+:::
+:::::
+
+::: {.notes}
+[Or drop this slide and go directly into the 3 core challenges?]
+:::
+
+
+##  {.center background-image="img/NG/Adenandra villosa_2.jpg" background-size="300px" background-position="right"}
+
+![](img/whatwewilldo.png){width="80%" height="80%" fig-align="left"}
+
+::: footer
+A unified framework for iteratively testing theory and predicting biodiversity dynamics and Nature's Contributions to People across space and time.
+:::
+
+::: {.notes}
+[Or present something like this and say "We will develop a unified framework for iteratively testing theory and predicting biodiversity dynamics and Nature's Contributions to People across space and time."?]
+:::
+
+-->
 
 ## Three Empirical Challenges {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
 
@@ -131,24 +159,22 @@ _We haven't had the tools needed to test and integrate theory across the scales 
 :::
 
 ::: {.notes}
-::: {style="font-size: 0.75em;"}
-Existing efforts have been hampered by three empirical challenges...
+Endeavours to achieve this have been hampered by three empirical challenges...
 
-The first is conceptual: How do we characterize the complexity of biodiversity in a way that allows us to explore mechanistic processes and linkages?
+The first is conceptual: How do we characterize the innate variation and complexity of biodiversity in a way that allows us to explore mechanistic processes and linkages?
 
 - For example, the Cape Floristic Region is home to >9000 vascular plant species. We can't hope to directly model every single one of them. 
 
 The second is data-limitation: How do we overcome the challenges associated with patchy biodiversity observations in space and time?
 
-- GBIF visualization of species locality records 
-- To forecast trajectories with confidence we need good, high-frequency data
+- This visualization of species locality records curated by the Global Biodiversity Information Facility reveals many dark parts on the map. The record is even patchier when explored over time, and there are long delays between field observation and data being available for modelling. To forecast trajectories with confidence we need good, high-frequency data.
 
-The third is methodological. How do we test hypotheses and infer causation at the scales relevant to theory and biodiversity prediction?
+The third is methodological. How do we test hypotheses and infer causation at the scales relevant to biodiversity prediction?
 
-- Historically, our only tool has been randomised control trials. These are constrained in space and time, and even some of the largest and longest running, such as the Park Grass Experiment shown here, are only up to the size of a small farm. 
+- Historically, our only tool has been randomised control trials. These are logistically and financially constrained, and even some of the largest and longest running, such as the Park Grass Experiment shown here, are only up to the size of a small farm. 
+- This means that much of our current theory has only been properly tested at limited spatial and temporal extents, and rarely replicated, and there are many reasons they may not hold at broader scales as assumptions and the relative importance of processes change.
 
 In short, we simply haven't had the tools to build a coherent body of integrative theory for understanding and forecasting biodiversity and its contributions to people.
-:::
 :::
 
 ## Three Solutions {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
@@ -171,15 +197,18 @@ Mechanistic links between scales from organism to ecosystem and Nature's Contrib
 ::::
 ::::::
 
+<!--
+:::fragment
+_Makes quantifying biodiversity tractable._
+:::
+-->
 
 :::{.notes}
-::: {style="font-size: 0.75em;"}
 Fortunately, the past few decades and recent developments are allowing us to overcome these challenges.
 
 Firstly, trait-based ecology characterizes biodiversity in a manner that allows us to explore mechanistic links and processes that scale from individual organisms to ecosystems and Nature's Contributions to People, such as carbon sequestration, provision of clean water, or even human well-being.
 
 This makes quantifying and modelling biodiversity tractable.
-:::
 :::
 
 ## Three Solutions {style="text-align: center;"}
@@ -202,13 +231,16 @@ Provides repeated observations at scales from metres to the globe
 ::::
 ::::::
 
+<!--
+:::fragment
+_Makes biodiversity observable._
+:::
+-->
 
 :::{.notes}
-::: {style="font-size: 0.75em;"}
-Secondly, satellite remote sensing provides repeat observations at scales from metres to the globe, which when validated with ground observations can tell us a lot about the state and trajectory of various facets of biodiversity.
+Secondly, satellite remote sensing provides repeated observations at scales from metres to the globe, which when validated with ground observations can tell us a lot about the state and trajectory of various facets of biodiversity.
 
 This makes biodiversity observable.
-:::
 :::
 
 ## Three Solutions {style="text-align: center;"}
@@ -231,13 +263,16 @@ Allows us to test causation at the scale of observations
 ::::
 ::::::
 
+<!--
+:::fragment
+_Makes theory and drivers testable across scales._
+:::
+-->
 
 :::{.notes}
-::: {style="font-size: 0.75em;"}
-Third, new methods in modern causal statistics are freeing us from the constraints of randomised control trials and allowing us to infer causation at scales that match our observations and application.
+Third, burgeoning methods in modern causal statistics are freeing us from the constraints of randomised control trials and allowing us to infer causation at scales that match our observations and application.
 
 This makes theory and the drivers of biodiversity change testable across scales.
-:::
 :::
 
 ## Three Solutions {style="text-align: center;"}
@@ -291,13 +326,13 @@ Combining these solutions will be transformative, because it makes biodiversity 
 :::
 
 :::{.notes}
-::: {style="font-size: 0.75em;"}
 Combining these solutions will be transformative, because it makes biodiversity characterizable and observable, and the drivers and theory testable and continuously falsifiable across spatial and temporal scales.
 
 - Slide -
 
-**This is our offering.**
-:::
+This is exactly what we need to develop a coherent body of theory for forecasting the trajectories of biodiversity and Nature's Contributions to People!
+
+This is our offering.
 :::
 
 
@@ -306,8 +341,11 @@ Combining these solutions will be transformative, because it makes biodiversity 
 ::::: columns
 :::: {.column width="25%"}
 
+<!--
+![](img/NG/Ischyrolepis tenuissima_Female_noBG.png){width="30%" height="30%" fig-align="left"}
+-->
 
-::: {style="font-size: 0.7em;"}
+::: {.fragment style="font-size: 0.7em;"}
 
 <br>
 
@@ -327,11 +365,11 @@ Combining these solutions will be transformative, because it makes biodiversity 
 :::::
 
 :::{.notes}
-::: {style="font-size: 0.75em;"}
-BioTraCE brings together **a team with the skills, experience and tools required to combine these solutions** to create something transformational for biodiversity theory, observation and forecasting.
+BioTraCE has the team to combine these solutions to create something transformational for biodiversity theory, observation and forecasting.
 
-We plan to **start in the MTEs**, where we have some of the best data for this work, and may expand if there is need or opportunity.
-:::
+No single discipline can do this. Our team brings together people who have been developing each component, and now allows us to integrate them.
+
+We represent three of the 5 MTEs, where we will focus the initial work, and have data and experience in the other MTEs and other ecosystems where we may expand if there is need or opportunity.
 :::
 
 ## Combining the solutions {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
@@ -351,13 +389,11 @@ Mapping traits with hyperspectral remote sensing
 ::::::
 
 :::{.notes}
-::: {style="font-size: 0.75em;"}
 We have a roadmap for combining the three solutions.
 
-Firstly, **PI Townsend's lab** have been leading efforts to map plant traits from imaging spectroscopy (hyperspectral remote sensing), groundtruthed with field data - combining solutions 1 and 2.
+Firstly, PI Townsend's lab have been leading efforts to map plant traits from imaging spectroscopy (hyperspectral remote sensing), groundtruthed with field data - combining solutions 1 and 2.
 
-- Here we see false colour composites of 18 NEON landscapes in the US showing three traits, Phenolics, Chlorophyll and Leaf Mass per unit Area mapped to red, green and blue. They show **clear variation in these traits within and between landscapes, revealing the legacies of ecological histories and land-use.**
-:::
+- Here we see false colour composites of 18 NEON landscapes in the US showing three traits, Phenolics, Chlorophyll and Leaf Mass per unit Area mapped to red, green and blue. They show clear variation in these traits within and between landscapes, revealing the legacies of ecological histories and land-use.
 :::
 
 ## Combining the solutions {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
@@ -378,11 +414,9 @@ Mapping traits with hyperspectral remote sensing
 ::::::
 
 :::{.notes}
-::: {style="font-size: 0.75em;"}
-We can also do this with spaceborne hyperspectral imagery, but these are currently patchy in space and time.
+These maps are based on airborne hyperspectral imagery, and the team have mapped traits from space-borne hyperspectral sensors, but both are patchy in space and time - due to the nature of airborne campaigns, and that existing space-borne missions have been in a development and testing phase and do not provide regular, repeated global coverage.
 
 Several of our team members have been involved in the development of hyperspectral satellite missions that will provide repeated global coverage, such as NASA's EAGLE-VSWIR and ESA's CHIME, that are scheduled to be launched in 2028 - during the lifetime of this proposed collaboration.
-:::
 :::
 
 ## Combining the solutions {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
@@ -403,21 +437,17 @@ Trait time-series from multispectral satellites
 ::::::
 
 :::{.notes}
-::: {style="font-size: 0.75em;"}
-We need to be **ready to harness these data**. Satellite missions typically only have a planned operational lifetime of 3-7 years, so waiting for time-series would be critical time lost.
+While time-series of traits from hyperspectral satellites will be transformational, we can't wait until we have multiple years of data before we start putting them to use. Satellite missions typically have a planned operational lifetime of 3-7 years, and while they are often extended or replaced, this would be critical time lost.
 
-We will use field data and hyperspectral imagery from airborne and existing space-borne platforms to calibrate and **develop trait time-series from multidecadal multispectral satellite records**, such as Landsat and Sentinel. 
-
-This allows us to leverage the hyperspectral data the minute the satellites are operational.
+To prepare for regular acquisition of hyperspectral satellite data with continuous coverage, we'll use field data and imagery from airborne and existing space-borne platforms to calibrate and develop trait time-series from multidecadal multispectral satellite records, such as Landsat and Sentinel. This allows us to leverage the hyperspectral data the minute the satellites are operational.
 
 - slide- 
 
-This figure shows **preliminary work** from PI Townsend's lab developing an annual timeseries of traitmaps for **Yosemite and surrounds in the Sierra Nevada from 2000 to 2024**. We plan to extend these as far back as the early 1980s and at a higher temporal frequency, and to increase to 30 or so traits.
+This figure shows preliminary work from PI Townsend's lab developing an annual timeseries of maps for 8 traits for Yosemite and surrounds in the Sierra Nevada from 2000 to 2024. We plan to extend these as far back as the early 1980s and at a higher temporal frequency, and to increase to 30 or so traits.
 
 This provides biodiversity datasets at spatial and temporal extents and resolutions that have never been available to science before.
 
 Not only does this present new opportunities to test existing theory, it is very likely to reveal phenomena that we've never seen or even thought to look for.
-:::
 :::
 
 ## Combining the solutions {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
@@ -435,14 +465,12 @@ Causal analysis of theory and drivers of traits and NCP
 ::::::
 
 :::{.notes}
-::: {style="font-size: 0.75em;"}
-The third leg of the solution is modern causal statistics, which will allow us to test the predictions of theory and the drivers of traits and NCP at the scales at which they are most relevant for observation, prediction, or societal application.
+The third leg of the solution is modern causal statistics, which when combined with dense spatial and temporal datasets will allow us to test the predictions of theory and the drivers of traits and NCP at the scales at which they are most relevant for observation, prediction, or societal application.
 
-These two figures are simplistic representations of exploring biodiversity responses or effects:
+These two figures are simplistic representations of two approaches:
 
 - one where we intervene on drivers like fire, to explore their effects on traits (representing biodiversity responses)
 - the other where we intervene on traits, to explore their effects on ecosystem functions related to Nature's Contributions to People (representing biodiversity effects on ecosystem function)
-:::
 :::
 
 ## Combining the solutions {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
@@ -460,15 +488,39 @@ Iterative forecasting of traits and NCP under different scenarios
 ::::::
 
 :::{.notes}
-::: {style="font-size: 0.75em;"}
-Together this **facilitates forecasting of traits and NCP** that iteratively update as new imagery are acquired and processed. 
+Together this facilitates forecasts of traits and NCP with fully specified uncertainties that iteratively update as new imagery are acquired and processed. Each update confronts the model with new data, testing our current understanding and model specification, allowing us to learn and refine or rebuild as we go.
 
-Each update **confronts our predictionc with new data, testing understanding** and model specification, allowing us to learn and refine or rebuild as we go.
+We'll transition from multispectral to hyperspectral satellite data when they become available, which should be in 2028.
 
-This allows us to **leverage decades of existing data**, and then **refine as the higher quality hyperspectral data become available** in 2028.
-:::
+This allows us to leverage crucial information from decades of existing data, but then refine the models and understanding as the higher quality hyperspectral data become available.
 :::
 
+<!--
+
+## Combining the solutions {style="text-align: center;"}
+
+Use counterfactual models and forecasts to test causal drivers and theory
+
+:::::: columns
+::: {.column width="30%"}
+![](img/traitmapping_new.jpg) ![](img/landsat.gif)
+:::
+
+:::: {.column width="65%"}
+![](img/traitTS_causal.png)
+::::
+::::::
+
+:::{.notes}
+The models and iterative forecasts will serve multiple purposes.
+
+Firstly, we will use them for causal inference, by intervening on key variables or adding or altering mechanistic processes in the model to explore counterfactual scenarios. These hypothetical "what if" situations allow inference of cause-and-effect relationships by comparing reality to alternative outcomes.
+
+Secondly, they can be used to inform the management of biodiversity and Nature's Contributions to People by detecting and attributing change as it happens or exploring potential outcomes under different decision scenarios.
+
+:::
+
+-->
 
 ## A framework to harmonize theory {style="text-align: center;"}
 
@@ -489,15 +541,43 @@ Synthesizing theory across physiology, population biology, evolutionary biology,
 ::::::
 
 :::{.notes}
-::: {style="font-size: 0.75em;"}
-We'll also apply an approach that **leverages the trait time series and knowledge gained from the causal models** in a Trait Driver Framework.
+We'll also apply a different approach, leveraging the trait time series and knowledge gained from the causal models and forecasts in a Trait Driver Framework.
 
-Trait Driver Theory borrows from **quantitative genetics** to recast ecological theories in the common currency of traits, linking dynamics to selection, dispersal, drift, and speciation. 
+Trait Driver Theory borrows from quantitative genetics to recast community ecological theories in the common currency of individual traits and community trait distributions, linking dynamics to selection, dispersal, drift, and speciation. 
 
-This **makes competing theories directly comparable on the same data** - allowing us to **partition the contribution** of different processes - or **test them in a causal framework**.
-:::
+This common trait-based representation can make competing theories directly comparable on the same data - allowing us to partition the contribution of different process - or test them in a causal framework.
 :::
 
+<!--
+
+## Our Team {background-image="img/BioTraCE_Team2.png" background-position="center"}
+
+::::: columns
+:::: {.column width="25%"}
+::: {.fragment style="font-size: 0.7em;"}
+- Remote Sensing of Biodiversity
+- Statistical Ecology
+- Theoretical Ecology
+- Community Ecology
+- Trait Ecology
+- Landscape Ecology
+- Hydroclimatology
+- People and Nature
+- Conservation Planning
+- Science and Policy
+- and more...
+
+:::
+::::
+:::::
+
+:::{.notes}
+No single discipline can do this. Our team brings together the people who have independently developed each component, and now allows us to integrate them.
+
+Our team represent three of the 5 MTEs, where we will focus the initial work, and have data and experience in many others and include the broad range of skills necessary to complete this project, from field to theoretical ecology to remote sensing, social ecological systems and conservation policy.
+:::
+
+-->
 
 ## BioTraCE Success {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
 
@@ -514,6 +594,34 @@ A new foundation for biodiversity science, where new global observations enable 
 
 :::
 
+<!--
+
+A coherent framework for iterative testing and integration of theory based on ongoing observations, facilitating monitoring and forecasting of biodiversity and Nature's Contributions to People to inform decision making.
+
+A new foundation for biodiversity science, where theory is iteratively integrated with new observations to discover, test, and refine our ability to explain and forecast biodiversity change across scales and ecosystems.
+
+A new foundation for biodiversity science, where new observations enable iterative testing and refining of theory and our ability to explain and forecast biodiversity change.
+
+
+## BioTraCE Success {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
+
+::::::::: center
+
+![](img/iterative_testing2.png){width="65%"}
+
+A framework for iterative testing and integration of theory informed by ongoing global observations
+
+:::::::::
+
+:::{.notes}
+An open source framework and tools for iterative, automated, testing and integration of theory informed by ongoing global observations.
+
+//Once developed, the learning framework and tools would allow further development and testing of theory well beyond the lifetime of the project.
+
+[Not sure about these chatGPT-generated graphics. I'd like to put more thought into what they're showing. Suggestions welcome!]
+:::
+
+-->
 
 ## BioTraCE Success {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
 
@@ -553,3 +661,72 @@ Working group 3 is focused on developing iterative ecological forecasting models
 Working group 4 will use the data and findings from WG 2 and 3 in a Trait Driver Framework to reframe existing theory in terms of traits and test their utility for biodiversity prediction (again Cory - Help?).
 
 :::
+
+<!--
+
+# BioTraCE {.center style="text-align: left;" background-image="img/NG/Ischyrolepis tenuissima_Female.jpg" background-size="500px" background-position="left"}
+
+
+## What success looks like? {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
+
+
+::::::::: center
+:::::::: columns
+::: {.column width="30%"}
+
+![](img/iterative_testing.png)
+A framework for iterative testing and integration of theory informed by ongoing global observations
+
+:::
+
+:::: {.column width="30%"}
+
+![](img/iterative_forecasting.png)
+Theory-informed iterative forecasting of biodiversity and NCP to inform decision making
+
+::::
+
+:::: {.column width="30%"}
+
+![](img/BentTheCurve.png)
+<br>
+
+Better managed biodiversity and Nature's Contributions to People
+
+::::
+
+::::::::
+:::::::::
+
+# BioTraCE {.center style="text-align: center;" background-image="img/NG/Ischyrolepis tenuissima_Female.jpg" background-size="500px" background-position="left"}
+
+:::{.notes}
+BioTraCE will combine these solutions to create something transformational for biodiversity theory, observation and forecasting.
+:::
+
+
+## What success looks like? {auto-animate="true" auto-animate-easing="ease-in-out" style="text-align: center;"}
+
+That's it!
+
+Struggling a bit with "What success looks like?"
+
+
+##
+
+![](img/success_draft.png)
+
+## BioTraCE {.center background-image="img/NG/Adenandra villosa.jpg" background-size="400px" background-position="right"}
+
+::::: columns
+::: {.column width="70%"}
+### Providing a unified, testable framework for predicting biodiversity dynamics and Nature's Contributions to People across space and time.
+:::
+
+::: {.column width="30%"}
+:::
+:::::
+
+## Hide Slide From Counter {visibility="uncounted"}
+
+-->
